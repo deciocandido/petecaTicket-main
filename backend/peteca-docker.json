@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "peteca-9e4d8",
+  "private_key_id": "0803bb1570f8b22bf9edf3306fb6c1aec63ec187",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQDmuvToz+u4/WEt\nSVzErWbRLdpFWv348LUTge2JbWsM1+4v9FoMiLM2icwTlu5gjlSEWPJMbuKQhxKf\nLWUAbpwfppYpSfjeMufBIOSLoHLd/t+TOqNzr71LQD5ZlOjhiu68+U0ggvae8u81\n5ZuMuneLEW5ICShY491zURSVMZM6OrtsjELcZY3NNEpSnDf8tB4ifqovVyLXfbV/\nqHVOI4B5f2H1WKwTJ2VglNaFH28Md6wYGsKHIphOxVRFdLs3P202Tn0/4vsNmy93\nCJC8Vg50ktvjZBSji9yNfYIf+IZlEpUQbCTLikW0ehwmjIyX51hDO80Ir/dM4dln\n5bKNx5cDAgMBAAECggEADHYRbxd3qCyLGIqLR5YD5Q1AahmBePXrGawdO5xcuTta\nQl3ElUO2xh3IF1DB/BYDy4gQQf+FHgAlidJGT7Epnm39UyqLFdkS+jPAFChsu7+d\nrJJwrHlT1GIaW/U2ZKP/w9YFC9n23tvI/pSxg3a4qRqeZaaU9sQLvEQnQ+2DAZR7\nMtkckLrkdrS4pBe6ENbnLLFPjjbwHJ3ZDRT1LClG8ncLGWK7wY5437xn3QcIoz7P\nCejBwzLmpHc7Ps2m46IWY3uPrv/p5kjjTI+zeVzR3pZ/RcWu7UP560b3/JXaXNe2\nLc+sJ5VFTE29w8BWfhyTRLe7jDlyvDWAvBr3xRG5vQKBgQD5vPq6rVOHtIMG4Nlh\nzjLvoQaaGP4YGZvrOA7M1Wk7ho3wZ/sD1BMWMQuGfHdb1jENnd93rcKWR4rKnP+Y\nc20Fwa4SWE5NcmT/kSbibJ4pauUthYe9rK3mJiyIM9Defkxa3BclzOCl2R0UpM4S\nhLtXZUAaN69iIo7yHRxRbGUkXQKBgQDsg/giLbxEQQmMlHzG4TnUmMueR5EJCcFp\ncIASfmitVb3xP/0OBm5caAoVPLP1+M1XzHIRPoMPx6mm++TLTSv6opgEA/+DBxon\njETWjnoAoxfCF6KADK42rwAGEca98mndXx+64Xv1czXSyAB+T0U3xyoBJjQLxQNi\na5u21bHy3wKBgQCZq/7AtfzrSVlC90LsWxyetYBBfFWGcOOvlrwMsNljJoXaw7ED\nBxGDm0RTSe2MVj2y+k1S8FoHbRhrWrYwkf4pB6fcY/gy0cxyMlgyBdJA/CTvoPYI\n8ePD9gN7AB9reV30nu+jc/FcPEAXvt2LKZ+5xHTwbQl/onJBa0ZMmB2YhQKBgE/m\nlWEWik+UmSFA2JZnaB4GMGOcUcb34Ls6IkodIkfMe4qQz3B5g7b7/swF4dXq45QR\noUdqEuS10v5ygmyb+YuGekyA/UTKlW9e17KUF2s3rcMIMQGJRyF6JUvnnXh1+IWs\nqQ99NV9KOJiosGH7barWQb55pYOEXwxUxhoSPzeJAoGBAJ0E0C6EPQpz7N38U93P\nNanYJ0f+5ihcaorZ+RaD4DF85DQmHboQeKOKP0SvsLghdoZ/en6DvJrDgaSlHXWh\n6rGmKGAYU6k4Io+DxQmwOlNTUvc70vfnpqfcNsGRIpxLZ9JrflFaARkGtG9/5K73\nUF/yML3tRbntL7yOUM3D5C4R\n-----END PRIVATE KEY-----\n",
+  "client_email": "petecadeploment@peteca-9e4d8.iam.gserviceaccount.com",
+  "client_id": "115040629389426711697",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/petecadeploment%40peteca-9e4d8.iam.gserviceaccount.com"
+}

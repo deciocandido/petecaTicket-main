@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "peteca-app",
+  "private_key_id": "627502f4ced16453ae3482b180ada3986048c79c",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQDD2Du/dqfz6AqV\nW59yXIACsjEkbiW9Co4TDYYkQDHe4Jw1TKempYLlvw2AuYNUiDWJdfk1zEqDG6OF\nl5WEnmx1gARL8rNSx1cJdl61PsMsXl+VRBadcW9f2I+esNpZmupxQmkwz1hAErAD\nbLwocJoCch13ax28DJFPw/I6fQir1GUQjFcOR4SGJn6CM9axYQ9BlKe4v26H6kgS\nq50kY4uT3LHqlVo1XO8JhLEjsmOd6tCcOhXKcaFCpdtYC4v75NbUzMnLYaFCZil0\nQS8EtjcpYhEffhVbU48FtF+q12EZfId6nxDLHYpY7hGeeLIFHZL8YzEAV2U57Eiw\nswen3sI9AgMBAAECggEAYIYX+Ic2QwfYA4ILZXWCoBGMF+zzy6bCnFBbj01WZwdj\n5f8YWBGWIL7XnFyShly1qkDLaYD9Ln42S3cI+bqNMSI9u+LsD/3wf1joV8MNtbXz\nvSE4VjPc1SvqqSd4DpbEOrslFinzUG0FdEKov/OzbEYrELrqBk9ZZStpnPsYBXuE\n8UqAlo97CNHMTE7EGb9Iy0Ldqv4aq//kBahr3eGUuVhI56nBS0hHodfFEw5AyqBk\nkDdwBOq/FoJ4cmhqWfuWIrlgukJKNYQyAfdY3xVLhRqpMkcGNOPFJWFxfzEZMM40\n7lN532h0W6BV4YQXAKPhdeQq3Mn6LcrF+P90qyV2/wKBgQD2gu3mTj6zUopoq6YK\nmCbmDw06HOAtq9AC5wez2XsMIp7gFK76QOBdSQ76e0ei8hkTmw/mBxRrJWQmRFv1\nfHC+N8WFksrmPo402PEylweulBsckCxQvaJFmaO2L8+qucVnb2n6kuUJpW8Scaks\nQFM0nQUyjF8iYQaYnxmTaF5F1wKBgQDLYgtm9SSmq6vtduI/uoV+QRhO5wEeN113\njY6ml7EKr/XfkCRGHgsz3lH4RmwwOHoZiemihs+El16Wpcp9O2CVGxiu7g12u9gu\nYgH62QxW/Viwu7d7I4ALgJyGjjOKsFrakGCn87emjpjXjmgIwb55u8ErKly95suL\nDNpCnAAOCwKBgQDds4E8GPDhHAHpAz8Q1ihdzfmqYx/nU1d/1MIjqRu2HUjf5Ro9\nba2bmEJFWixiSvPsow+YZJOjjXxVwjMmRCWtncEiUZPzoR0KQHYkdpptEzyS4sNI\nVlSj3frTtopBVFRKo3Qf7I7arxOG9fwdFTj/35w2CvLgm3xwNN6uqTXn/wKBgEDg\nCHUSE1va/N+lgWwEqlpol0Fr7G5gCL9+9xbq4j1ffZWPnBKFuNsVup3wkMgc683D\nsTP3vrAzvKdfQSULULafSxNZug+6wa2h87G5lHcXHzhY2KE95LVGlCdTqts9f+2i\nCkLouhc1+0kfEs5gRsr7+hUz0Rt+SEUVl3WR326bAoGBANo8mXWYWPRBT75dX4Ix\nl8Qg3rVoVIubJcTf0iPhhfmWxAYNxf33T1uLbPcfLCQbSkb20QMxg2k7llbaWrWX\nE926N4o+huGT4qGh5ZJTRt3QHHR97ZRrp+SncNhvtRYickXRReKB5UH2/W7cOizx\nwSi0C00VuSdu3xqTPltiz+JW\n-----END PRIVATE KEY-----\n",
+  "client_email": "peteca-account@peteca-app.iam.gserviceaccount.com",
+  "client_id": "108972832431081972325",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/peteca-account%40peteca-app.iam.gserviceaccount.com"
+}
