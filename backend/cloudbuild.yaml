@@ -1,0 +1,5 @@
+steps:
+- name: 'gcr.io/cloud-builder/docker'
+  args: ['build', '-t', 'gcr.io/peteca-9e4d8/peteca_app', '.']
+- name: 'gcr.io/cloud-builder/docker'
+  args: ['push', 'gcr.io/peteca-9e4d8/peteca_app']
